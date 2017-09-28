@@ -2,7 +2,7 @@
 public class Ibon {
 
 	public Ibon() {
-		//Lehenengo bertsioa 
+		//Bigarren bertsioa 
 		// TODO Auto-generated constructor stub
 	}
 
